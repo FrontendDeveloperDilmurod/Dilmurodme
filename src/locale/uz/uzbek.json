@@ -1,0 +1,53 @@
+{
+  "translation": {
+    "navbar": {
+      "logo": "Tez pizza",
+      "inputPlaceholder": "Buyurtmani qidirish...",
+      "selectOptionEng": "Inglizcha",
+      "selectOptionRu": "Ruscha",
+      "selectOptionUz": "O‘zbekcha"
+    },
+    "hero": {
+      "titleBlack": "Eng yaxshi pizza: ",
+      "titleYellow": "Tandirdan to'g'ridan-to'g'ri sizga",
+      "text": "Xush kelibsiz! Iltimos, ismingizni kiriting:",
+      "inputPlaceholder": "To‘liq ismingiz",
+      "button": "BUYURTMA BERISHNI BOSHLASH"
+    },
+    "menu": {
+      "sold": "SOTILIB BO‘LGAN",
+      "button": "SAVATCHAGA QO‘SHISH"
+    },
+    "footer": {
+      "pizzas": "Pitsalar",
+      "link": "SAVATCHANI OCHISH"
+    },
+    "cart": {
+      "link": "Menyuga qaytish",
+      "text": "Sizning savatchangiz",
+      "orderBtn": "Pitsalarni buyurtma qilish",
+      "clearBtn": "Tozalash",
+      "deleteBtn": "O‘chirish"
+    },
+    "careateOrder": {
+      "title": "Buyurtma berishga tayyormisiz? Keling, boshlaymiz!",
+      "name": "Ism",
+      "number": "Telefon raqami",
+      "addres": "Manzil",
+      "text": "Buyurtmangizni ustuvor qilmoqchimisiz?",
+      "button": "HOZIR BUYURTMANI BERISH"
+    },
+    "order": {
+      "title": "Holat",
+      "priorityBtn": "Ustuvor",
+      "orderBtn": "Buyurtma",
+      "leftText1": "Faqat",
+      "leftText2": "daqiqa qoldi",
+      "leftText3": "Buyurtma yetib kelishi kerak edi",
+      "rightText": "(Taxminiy yetkazib berish:)",
+      "price": "Pizza narxi:",
+      "priority": "Ustuvorlik narxi:",
+      "pay": "Yetkazib berishda to'lash: "
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "translation": {
+    "navbar": {
+        "logo":"FAST PIZZA",
+        "inputPlaceholder":"Search Order...",
+        "selectOptionEng":"English",
+        "selectOptionRu":"Russian",
+        "selectOptionUz":"Uzbek"
+    },
+    "hero":{
+      "titleBlack":"The best ",
+      "titleYellow":"pizza Straight out of the oven, straight to you",
+      "text":"Welcome! Please start by telling us your name:",
+      "inputPlaceholder":"Your full name",
+      "button":"START ORDERING"
+    },
+    "menu":{
+      "sold":"SOLD OUT",
+      "button":"ADD TO CART"
+    },
+    "footer":{
+      "pizzas":"Pizzas",
+      "link":"OPEN CART"
+    },
+    "cart":{
+      "link":"Back to menu",
+      "text":"Your Cart",
+      "orderBtn":"ORDER PIZZAS",
+      "clearBtn":"CLEAR",
+      "deleteBtn":"DELETE"
+    },
+    "careateOrder": {
+      "title": "Ready to order? Let's go!",
+      "name": "First Name",
+      "number": "Phone number",
+      "addres": "Address",
+      "text": "Want to yo give your order priority?",
+      "button": "ORDER NOW"
+    },
+      "order":{
+        "title":"Status",
+        "priorityBtn":"Priority",
+        "orderBtn":"order",
+        "leftText1":"Only",
+        "leftText2":"minutes left",
+        "leftText3":"Order should have arrived",
+        "rightText":"(Estimated delivery:)",
+        "price":"Price pizza:",
+        "priority":"Price priority:",
+        "pay":"To pay on delivery:"
+      }
+  }
+}
